@@ -25,5 +25,5 @@
     - ContestAgent: Một nhân viên từ p2 thông minh tránh ma, ăn viên nang năng lượng và thức ăn.
   - 
   
-## ____________________________ The end _____________________________
+## _____________________ The end ________________________
   
