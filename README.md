@@ -40,11 +40,6 @@
     lose: bằng 1 nếu thua ngược lại sẽ là 0
     score: số điểm nhân với 10
 
-    - StopAgent: Một tác nhân chỉ dừng lại
-    - FoodAgent: Một tác nhân chỉ nhằm mục đích ăn thức ăn, không quan tâm đến bất cứ điều gì khác trong môi trường.
-    - SuicideAgent: Một tác nhân chỉ di chuyển về phía con ma gần nhất, bất kể nó sợ hay không sợ.
-    - ContestAgent: Một nhân viên từ p2 thông minh tránh ma, ăn viên nang năng lượng và thức ăn.
-  - 
   
-## _____________________ The end ________________________
+## _______________________ The end ___________________________
   
